@@ -1,0 +1,138 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+8,Cairns,NE,75.2,overcast clouds,-16.9167,145.7667,Mantra Trilogy Cairns
+10,Kiunga,NE,73.36,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+15,Tautira,NE,77.0,light rain,-17.7333,-149.15,Pension Oaoa
+19,Bengkulu,NE,76.66,light rain,-3.8004,102.2655,Grage Hotel Bengkulu
+20,Vanimo,NE,79.29,moderate rain,-2.6741,141.3028,Vahmoneh Lodge Vanimo
+21,Vaini,NE,73.4,light rain,-21.2,-175.2,Keleti Beach Resort
+22,Padang,NE,78.1,overcast clouds,-0.9492,100.3543,Mercure Padang
+23,Vao,NE,76.12,scattered clouds,-22.6667,167.4833,Hotel Kou-Bugny
+28,Najran,NE,77.0,clear sky,17.4924,44.1277,محمد هادي ال فطيح
+29,Rikitea,NE,78.75,light rain,-23.1203,-134.9692,Pension Maro'i
+32,Atuona,NE,78.28,light rain,-9.8,-139.0333,Villa Enata
+35,Bredasdorp,NE,75.0,clear sky,-34.5322,20.0403,Bredasdorp Country Manor
+45,Bandarbeyla,NE,75.2,clear sky,9.4942,50.8122,JABIR HOTEL
+49,Cape Town,NE,78.8,few clouds,-33.9258,18.4232,"Radisson Blu Hotel Waterfront, Cape Town"
+53,Hermanus,NE,75.0,clear sky,-34.4187,19.2345,Misty Waves Boutique Hotel
+55,Kapaa,NE,71.6,light rain,22.0752,-159.319,Sheraton Kauai Resort at Coconut Beach
+56,Voh,NE,72.61,broken clouds,-20.9667,164.7,Le gîte du Koniambo
+60,Barabai,NE,75.42,overcast clouds,-2.5833,115.3833,HOTEL BOURAQ INDAH PERMAI
+61,Flinders,NE,73.0,scattered clouds,-34.5833,150.8552,Shellharbour Resort & Conference Centre
+63,Kununurra,NE,78.8,light rain,-15.7667,128.7333,Hotel Kununurra
+65,Geraldton,NE,73.4,clear sky,-28.7667,114.6,Broadwater Mariner Resort
+66,Avarua,NE,77.0,scattered clouds,-21.2078,-159.775,Paradise Inn
+94,Labuhan,NE,78.03,light rain,-6.8844,112.2051,PT PPI Lamongan Tambak C
+97,Awbari,NE,74.3,clear sky,26.5921,12.7805,فندق أوباري
+106,Yeppoon,NE,77.0,overcast clouds,-23.1333,150.7333,Villa Mar Colina
+111,Hambantota,NE,77.0,scattered clouds,6.1241,81.1185,Bungalow 63
+127,Busselton,NE,72.0,clear sky,-33.65,115.3333,Observatory Guest House
+129,Byron Bay,NE,75.2,broken clouds,-28.65,153.6167,Backpackers Inn on the Beach
+130,Meulaboh,NE,78.06,broken clouds,4.1363,96.1285,Kost Pria
+140,Jalu,NE,76.01,clear sky,29.0331,21.5482,صاحبة الفخامة
+150,San Vicente,NE,73.58,overcast clouds,-26.6167,-54.1333,Complejo Turístico Farelluk
+151,Bitung,NE,77.0,few clouds,1.4451,125.1824,K2 Lembeh
+152,San Patricio,NE,72.0,broken clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+160,East London,NE,77.0,scattered clouds,-33.0153,27.9116,Tu Casa
+167,Daru,NE,77.45,overcast clouds,-9.0763,143.2092,Daru Lodge
+169,Marsa Matruh,NE,73.4,few clouds,31.3525,27.2453,Beau Site
+176,Kloulklubed,NE,78.8,broken clouds,7.0419,134.2556,Storyboard Beach Resort
+179,Salalah,NE,73.4,few clouds,17.0151,54.0924,HAMDAN PLAZA HOTEL SALALAH
+183,Port Alfred,NE,73.99,clear sky,-33.5906,26.891,The Halyards Hotel
+184,Coahuayana,NE,75.2,clear sky,18.7333,-103.6833,Hotel Los Arcos
+187,Dingle,NE,72.34,overcast clouds,10.9995,122.6711,SEGAYA PROPERTY
+194,Dakar,NE,77.0,clear sky,14.6937,-17.4441,Novotel Dakar
+197,Ambon,NE,78.8,scattered clouds,-3.6954,128.1814,Swiss-Belhotel Ambon
+203,Banjar,NE,78.8,moderate rain,-8.19,114.9675,The Hamsa Resort
+206,Letpadan,NE,75.27,few clouds,17.7833,95.75,Ko Arkar Lin
+218,Kiama,NE,73.0,broken clouds,-34.6833,150.8667,The Sebel Kiama Harbourside
+230,Kruisfontein,NE,75.0,clear sky,-34.0033,24.7314,Oyster Bay House Rental
+231,Charters Towers,NE,74.68,overcast clouds,-20.1,146.2667,Cattleman's Rest Motor Inn
+243,Guantanamo,NE,78.8,few clouds,20.1444,-75.2092,Hotel Marti
+259,Koungou,NE,78.8,moderate rain,-12.7336,45.2042,Villa Netibor
+260,Sibolga,NE,77.97,overcast clouds,1.7427,98.7792,Hotel Syariah CN Darussalam
+261,Volksrust,NE,72.09,light rain,-27.3654,29.8818,Kwa-Dlamathe Guesthouse
+263,Nabire,NE,76.05,overcast clouds,-3.3667,135.4833,Hotel Nusantara Nabire
+268,Hualmay,NE,74.64,broken clouds,-11.0964,-77.6139,Hotel Villa Kitzia Huacho
+288,Isla Mujeres,NE,78.8,broken clouds,21.2311,-86.731,Hotel La Joya Isla Mujeres
+291,Santa Rosa,NE,75.2,few clouds,14.3122,121.1114,Erlyn’s Sta Rosa City Home
+292,Port Elizabeth,NE,75.2,clear sky,-33.918,25.5701,39 On Nile Guest House
+301,Vicosa,NE,79.23,broken clouds,-20.7539,-42.8819,Vivant Residence
+309,San Cristobal,NE,78.8,scattered clouds,7.7669,-72.225,Pirineos
+312,Huarmey,NE,74.95,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+315,Mecca,NE,74.53,clear sky,21.4267,39.8261,"Makkah Clock Royal Tower, A Fairmont Hotel"
+318,Sabha,NE,72.5,clear sky,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
+323,Isangel,NE,73.4,broken clouds,-19.55,169.2667,Volcano Sea View Tree House
+324,Bandar-E Lengeh,NE,71.6,clear sky,26.5579,54.8807,کافی نت پارس
+329,Honiara,NE,78.78,overcast clouds,-9.4333,159.95,Heritage Park Hotel
+335,Pasni,NE,70.36,clear sky,25.2631,63.471,Kashmiri Hotal
+336,Denpasar,NE,78.8,heavy intensity rain,-8.65,115.2167,ASTON Denpasar Hotel & Convention Center
+343,Bodden Town,NE,79.0,scattered clouds,19.2833,-81.25,Will T Place
+346,Saurimo,NE,79.72,light rain,-9.6608,20.3916,Hotel Kawissa Saurimo
+347,Riosucio,NE,77.0,few clouds,5.4216,-75.7032,Finca cafetera La Ermita
+349,Kapit,NE,75.16,overcast clouds,2.0167,112.9333,Hotel Meligai Kapit
+351,Manta,NE,77.0,moderate rain,-0.95,-80.7333,Balandra Hotel
+354,Ewa Beach,NE,71.6,scattered clouds,21.3156,-158.0072,Base Lodging
+355,Varadero,NE,71.6,broken clouds,23.1536,-81.2514,Hotel Tuxpan Varadero
+364,Bijapur,NE,74.97,clear sky,16.8333,75.7,Rajdhani Lodge
+365,Iquira,NE,77.61,overcast clouds,2.6487,-75.6346,Finca San José
+367,Manggar,NE,79.84,overcast clouds,-2.8833,108.2667,Guest Hotel
+369,Manokwari,NE,79.11,overcast clouds,-0.8667,134.0833,Swiss Belhotel Manokwari
+370,Santa Cruz De Tenerife,NE,71.01,few clouds,28.4682,-16.2546,Hotel Silken Atlántida Santa Cruz
+371,Plettenberg Bay,NE,72.63,clear sky,-34.0527,23.3716,Thanda Vista B&B
+372,Ternate,NE,78.17,overcast clouds,0.8,127.4,Grand Dafam Bela Ternate
+379,Eyl,NE,74.91,clear sky,7.9803,49.8164,Amiin Hotel
+383,Mpophomeni,NE,75.99,light rain,-29.5682,30.1862,Sakkie and friends
+389,Cayenne,NE,77.0,broken clouds,4.9333,-52.3333,Hôtel Le Dronmi
+390,Dzilam Gonzalez,NE,73.22,scattered clouds,21.2833,-88.9333,posadas
+397,Pathein,NE,72.63,clear sky,16.7833,94.7333,Pathein Hotel
+410,San Pedro,NE,75.2,few clouds,14.35,121.0167,OYO 412 Viewfort Venue
+418,Hervey Bay,NE,73.0,clear sky,-25.2986,152.8535,Shelly Bay Resort
+420,Luderitz,NE,76.3,clear sky,-26.6481,15.1594,LÜDERITZ NEST HOTEL
+422,Gladstone,NE,77.0,light rain,-23.85,151.25,Highpoint International
+429,Punta Alta,NE,70.88,overcast clouds,-38.8759,-62.0736,Center Hotel Punta Alta
+438,Tomatlan,NE,78.03,clear sky,19.9333,-105.25,Norma franco
+439,Tingo Maria,NE,71.6,overcast clouds,-9.2895,-76.0088,Hospedaje Paraíso
+441,Cockburn Town,NE,72.18,scattered clouds,21.4612,-71.1419,Osprey Beach Hotel
+456,Jerantut,NE,71.31,overcast clouds,3.936,102.3626,Jerantut Hill Resort
+459,Belawan,NE,77.0,scattered clouds,3.7755,98.6832,Lilik Hidayat Pulungan
+481,Makakilo City,NE,71.6,scattered clouds,21.3469,-158.0858,Marriott's Ko Olina Beach Club
+487,Sao Filipe,NE,78.1,overcast clouds,14.8961,-24.4956,Tortuga B&B
+489,Cikupa,NE,77.0,haze,-6.2364,106.5083,Baguos Priyo Satiaji
+491,Muisne,NE,77.0,light rain,0.6,-80.0333,Quinta Samay
+502,Port Macquarie,NE,71.01,scattered clouds,-31.4333,152.9167,Rydges Port Macquarie
+508,Qui Nhon,NE,72.23,scattered clouds,13.7667,109.2333,Khách sạn Hải Âu Quy Nhơn - Seagull Hotel
+518,Kencong,NE,75.94,moderate rain,-8.2833,113.3667,GUBUK SUGIANTO
+537,Pringsewu,NE,73.96,overcast clouds,-5.3582,104.9744,Urban Style by Front One
+550,Palizada,NE,75.2,few clouds,18.25,-92.0833,Hotel San Joaquín
+558,San Felipe,NE,78.64,few clouds,10.3399,-68.7425,Posada Llovizna Rodríguez
+560,Avanigadda,NE,77.0,haze,16.0215,80.9181,AP Camping
+568,Alofi,NE,75.2,moderate rain,-19.0595,-169.9187,Taloa Heights
+572,Kerema,NE,77.4,overcast clouds,-7.9631,145.7785,Frena Lodge
+579,Katobu,NE,75.65,moderate rain,-4.9408,122.5276,La Ode Husein
+581,Henties Bay,NE,71.01,scattered clouds,-22.116,14.2845,Fishermans Guest House
+582,Bac Lieu,NE,76.33,overcast clouds,9.285,105.7244,Khách sạn Sài Gòn Bạc Liêu
+591,Baracoa,NE,73.2,broken clouds,20.3467,-74.4958,Hostal Rio Miel
+592,Matara,NE,77.85,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+609,La Asuncion,NE,79.95,overcast clouds,11.0333,-63.8628,Colinas de Matasiete
+611,Bako,NE,73.54,few clouds,5.7833,36.5667,Goh Hotel
+617,San Ignacio,NE,73.99,clear sky,17.1561,-89.0714,Rainforest Haven Inn
+620,Minab,NE,71.6,scattered clouds,27.1467,57.0801,Bam campground
+629,Kalmunai,NE,77.94,broken clouds,7.4167,81.8167,VS Villa
+639,Ulundi,NE,76.12,light rain,-28.3352,31.4162,Ekhethelo Lodge
+647,Abu Dhabi,NE,75.2,clear sky,24.4667,54.3667,Beach Rotana
+648,Kimbe,NE,77.95,overcast clouds,-5.5502,150.1429,Kimbe Bay Hotel
+656,Mersing,NE,78.8,overcast clouds,2.4312,103.8405,Timotel Hotel
+660,Puerto Escondido,NE,78.8,clear sky,15.85,-97.0667,Aldea del Bazar Hotel and Spa
+661,Ratnagiri,NE,77.61,clear sky,16.9833,73.3,Hotel Landmark
+663,Antofagasta,NE,73.99,few clouds,-23.65,-70.4,Holiday Inn Express Antofagasta
+668,Tanete,NE,77.58,overcast clouds,-3.9443,119.7848,Wisma Tri Multi
+679,Ampanihy,NE,79.32,light rain,-24.7,44.75,Angora Hotel
+680,Dangriga,NE,73.99,broken clouds,16.9692,-88.2321,Chaleanor Hotel
+682,Magadi,NE,77.0,broken clouds,12.9667,77.2333,Mindri of Magadi
+695,Port Moresby,NE,75.2,moderate rain,-9.4431,147.1797,Lamana Hotel
+696,Umm Lajj,NE,70.11,clear sky,25.0213,37.2685,Moon light Furnished Units
+699,Mazamari,NE,73.17,overcast clouds,-11.3258,-74.5308,Hospedaje Ratto
+704,Bahia Honda,NE,71.91,few clouds,22.9036,-83.1592,Casa Gualberto - Deysi
+710,Mawlamyine,NE,76.59,broken clouds,16.4914,97.6256,Sandalwood Hotel
+717,Progreso,NE,73.99,scattered clouds,21.2833,-89.6667,Playa Linda Hotel
+719,Chalisgaon,NE,72.57,clear sky,20.4667,75.0167,Shree Datta
